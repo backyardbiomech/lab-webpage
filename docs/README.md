@@ -1,5 +1,9 @@
 <meta name='robots' content='noindex,nofollow' />
 
-# lab-webpage
+# Jackson Lab Resources
 
-Some info
+[Onboarding](/docs/onboarding.md)
+
+## Policies
+
+[Statement on lab culture and expectations](/docs/statement.md)
