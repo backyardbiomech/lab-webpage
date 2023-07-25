@@ -2,8 +2,8 @@
 
 # Jackson Lab Resources
 
-[Onboarding](/docs/onboarding.md)
+[Onboarding](onboarding.md)
 
 ## Policies
 
-[Statement on lab culture and expectations](/docs/statement.md)
+[Statement on lab culture and expectations](statement.md)
