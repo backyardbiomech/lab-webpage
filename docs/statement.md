@@ -1,3 +1,4 @@
+<meta name='robots' content='noindex,nofollow' />
 # Statement on lab culture and expectations
 
  > *This statement describes lab culture and expectations (both the ones that I have of you and the ones that you can have of me). Like a course syllabus, it describes the bigger picture aspects of how the lab functions regarding mentoring, other human aspects, and expectations. Details on how to do specific things in the labs can be found on specific project pages as "Procedures". The highlighed parts or those that I believe are more “unique” to our lab or that I consider particularly important; you might want to read these parts extra carefully. I have incorporated great ideas from lab members and other labs. This document will always be in progress and feedback is welcome.* 
