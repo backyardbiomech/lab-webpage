@@ -1,3 +1,0 @@
-# lab-webpage
-
-Some info
