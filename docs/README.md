@@ -7,3 +7,5 @@
 ## Policies
 
 [Statement on lab culture and expectations](statement.md)
+
+[Presentation Test](presentations/presentation.html)
