@@ -123,7 +123,7 @@ What determines your blood type? Genetics - Antigen and Antibody types are inher
 
 Table with possible combinations of blood type alleles. Due to the simplification of the blood type system, blood groups are only about 40% effective to rule out a man as a child’s potential father. Modern laboratory tests use genetic methods for a more reliable test.
 
-### Hemolytic disease of newborns
+### Hemolytic disease of newborns 
 
 As the father contributes one allele determining the fetuses blood type, it is possible for a fetus to have a blood type that is incompatible with that of the mother. The mother’s and fetus’s blood circulation are mostly separated by the placenta. If, however, the mother’s blood gets exposed to the fetuses’s blood (e.g. due to complications during pregnancy or at birth ), the mother’s immune system will form antibodies against the fetus’s RBCs. This can cause Rh disease or other forms of hemolytic disease of the newborn (HDN) in the current pregnancy and/or subsequent pregnancies. Sometimes this is lethal for the fetus. If a pregnant woman is known to have anti-D antibodies, the Rh blood type of a fetus can be tested by analysis of fetal DNA in maternal plasma to assess the risk to the fetus of Rh disease. Modern medicine has developed Rho(D) immune globulin (trade name RhoGAM) which can prevent the formation of Anti-D antibodies by D negative mothers when given during pregnancy. Under what scenario could this affect you?
 
